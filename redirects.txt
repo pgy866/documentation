@@ -228,7 +228,7 @@ applications/marketing/survey/overview/time_random.rst applications/marketing/su
 
 administration/db_management/db_premise.rst administration/maintain/db_premise.rst           # /db_management/* -> /maintain/*
 administration/db_management/hosting_changes.rst administration/maintain/hosting_changes.rst # /db_management/* -> /maintain/*
-administration/db_upgrade.rst administration/upgrade/process.rst                             # /* -> /maintain/*
+administration/db_upgrade.rst administration/upgrade/process.rst                             # db_upgrade -> /upgrade/process
 administration/enterprise.rst administration/maintain/enterprise.rst                         # /* -> /maintain/*
 administration/update.rst administration/maintain/update.rst                                 # administration/* -> administration/maintain/*
 administration/install.rst administration/install/install.rst                                # /* -> /install/*

@@ -16,10 +16,10 @@ An upgrade is switching to a newer version of Odoo (e.g., Odoo 14.0 to Odoo 15.0
 
 An upgrade does not cover:
 
-* changing :ref:`Editions <upgrade-faq/editions-change>` (i.e., Community to Enterprise edition)
-* switching :ref:`hosting type <upgrade-faq/hosting-types-switch>` (i.e., On-Premise to Online or
+* Changing :ref:`editions <upgrade-faq/editions-change>` (i.e., Community to Enterprise edition)
+* Switching :ref:`hosting type <upgrade-faq/hosting-types-switch>` (i.e., On-Premise to Online or
   Odoo.sh)
-* migration from another ERP to Odoo
+* Migration from another ERP to Odoo
 
 .. note:: |assistance-contact|
 
